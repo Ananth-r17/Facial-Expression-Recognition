@@ -5,6 +5,8 @@ To perform Facial Expression Recognition using Keras and Tensorflow.
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.
 This model can be used for prediction of expressions of both still images and real time video. However, in both the cases we have to provide image to the model. In case of real time video the image should be taken at any point in time and feed it to the model for prediction of expression. The model will generate seven probability values corresponding to seven expressions. The highest probability value to the corresponding expression will be the predicted expression for that image. For better prediction we have decided to keep the size of each image 350*350.
 
+![alt](https://github.com/Ananth-r17/Facial-Expression-Recognition/blob/master/2-Figure1-1.png)
+
 ## Problem Statement:
 ##### CLASSIFY THE EXPRESSION OF FACE IN IMAGE OUT OF SEVEN BASIC HUMAN EXPRESSION
 
