@@ -1,5 +1,5 @@
 # Facial Expression Recognition
-To perform Facial Expression Recognition using.
+To perform Facial Expression Recognition using Keras (Tensorflow in Backend).
 
 ## Description:
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.
